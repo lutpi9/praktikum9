@@ -1,4 +1,4 @@
-## PRAKTIKUM 4
+## PRAKTIKUM 9
 | Variable       |    DATA DIRI         |
 | ---------------| ----------------     |
 | Nama           | Lutpiah Ainu Shiddik |                                          
@@ -21,7 +21,7 @@
  - git push -u origin master/main Untuk mengirim perubahan pada local repository ke server gunakan perintah git push.
  - git clone [url] Clone repository, pada dasarnya adalah meng-copy repository server dan secara otomatis membuat satu direktory sesuai dengan nama repositorynya (working 
    directory).
-## PRAKTIKUM 4
+## PRAKTIKUM 9
 - Code ini adalah program sederhana dalam bahasa Python yang memanfaatkan pustaka Tabulate untuk mengumpulkan data nilai mahasiswa dan menampilkan hasilnya dalam bentuk 
   tabel. Program berjalan dalam perulangan dimana pengguna diminta untuk memasukkan data mahasiswa, termasuk nama, NIM (Nomor Induk Mahasiswa), nilai tugas, nilai UTS, dan 
   nilai UAS. Setelah data dimasukkan, nilai akhir dihitung berdasarkan bobot tertentu dan disimpan dalam bentuk dictionary. Pengaturan tata letak tabel, termasuk penataan 
