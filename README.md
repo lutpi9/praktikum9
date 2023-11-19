@@ -44,4 +44,4 @@
 - OUTPUT
 - ![latihan1 py](https://github.com/lutpi9/praktikum9/assets/147919251/30c6f584-65b4-4a33-a061-cdffa73d705a)
 
-  ![Screenshot (242)](https://github.com/Maullynn/praktikum4/assets/144296695/2d558578-f4c7-4c5f-9f82-8cb1bbefe835)
+ 
